@@ -1,0 +1,69 @@
+A)  LYMPH NODE, RIGHT, SENTINEL, EXCISION:
+
+1.  Two lymph nodes, negative for carcinoma (0/2) by H&E and keratin stains.
+
+COMMENT:  Immunohistochemical stains for keratin are negative.
+
+B)  BREAST, RIGHT, SIMPLE MASTECTOMY:
+
+1.  Invasive ductal carcinoma, Nottingham combined histologic grade 2, measuring 1.9 cm in greatest dimension and extending to 0.6 cm from the closest surgical resection margin (see Pathology staging summary).
+
+Pathology Staging Summary
+*Specimen type: Simple mastectomy (including nipple and skin)
+*Laterality: right
+*Tumor type(s) present: Invasive and in situ carcinoma
+*Tumor Site: Upper Outer Quadrant
+*Invasive Carcinoma Histologic Type: Invasive ductal
+*Size of Invasive Component: 1.9 cm
+*Histologic Grade (Nottingham Combined Histologic Score): G2 (Tubular differentiation: 3/3; Nuclear grade: 2/3; Mitotic count: 2/3; Total score: 7/9)
+*Tumor Focality: Single focus of invasive carcinoma
+*Histologic Type of DCIS: cribriform
+*Grade of DCIS: intermediate grade
+*Estimated Size (extent) of DCIS: minimal microscopic component
+*Necrosis in DCIS: Present, focal (small foci or single cell necrosis)
+*Lymphovascular Invasion: Negative
+*Perineural Invasion: Negative
+*Nipple: DCIS does not involve the nipple epidermis
+*Skin: Invasive carcinoma does not invade into the dermis or epidermis
+*Skeletal Muscle: No skeletal muscle present
+*Surgical Margins for the Invasive Carcinoma: negative
+*Distance from the closest margin for the Invasive Carcinoma: posterior 0.6 cm macroscopic assessment, see gross description
+*Lymph node sampling: Sentinel lymph node(s) only
+*Number of sentinel lymph nodes examined: 2
+*Number of metastatic nodes/total number of nodes examined: 0/2
+*The remaining breast shows: fibroadenomatoid changes, sclerosing adenosis
+*Pathologic Stage (AJCC 7th Edition): pT1c (sn)pN0
+
+*Special studies (estrogen and progesterone receptors, mib-1 and HER-2/neu by FISH) have not been ordered on this specimen, as they had already been performed on the previous biopsy (SP-11-11914) and were reported as follows:
+*ER/PR hormone receptors: ER positive; PR positive
+*Nuclear proliferation index (mib-1): high
+*HER-2/neu by FISH: negative
+
+Gross Description
+
+A)  RIGHT SENTINEL NODE:  Received fresh labeled Wurdeman, Susan Kay, is a 2 x 1.5 x 1 cm piece of fatty tissue containing two lymph nodes which measure 1.2 cm and 2.0 cm in greatest dimension.  The lymph nodes are submitted in toto for frozen section.
+
+FROZEN SECTION DIAGNOSIS PERFORMED AT PROVIDENCE PORTLAND MEDICAL CENTER:  TWO LYMPH NODE FRAGMENTS, NEGATIVE FOR MALIGNANCY.  (JDH).
+
+B)  RIGHT BREAST:  Received fresh labeled Wurdeman, Susan Kay, is the product of a right simple mastectomy which is oriented by the surgeon as follows:  one clip 12:00, two clips medial.  The specimen weights 356 grams and measures 17 x 15 x 3.5 cm.  There is an overlying 7.5 x 4 cm ellipse of tan skin with a central raised nipple.  The margins are marked as follows:  superoanterior - orange, inferoanterior - green, posterior - black.  Cut surfaces have abundant fibrous tan-white breast tissue with innumerable cysts and nodules.  In the upper inner quadrant is a 1.9 x 1.7 x 1.3 cm indurated stellate gray-white tumor located 0.6 cm from the posterior margin.  A single lymph node is present in the upper outer quadrant 1 cm in greatest dimension.
+
+SECTIONS:
+B1)  nipple;
+B2)  posterior margin;
+B3)  superoanterior margin;
+B4)  lateral aspect of tumor;
+B5)  midportion of tumor;
+B6)  medial aspect of tumor;
+B7)  representative sections from lower inner quadrant greater than 2 cm from tumor;
+B8)  representative sections from upper inner quadrant within 2 cm of tumor;
+B9)  representative sections from lower outer quadrant greater than 2 cm from tumor;
+B10)  representative sections from upper outer quadrant greater than 2 cm from tumor;
+B11)  one lymph node bisected and entirely submitted.
+
+Microscopic Description
+
+Microscopic examination is performed and supports the above diagnoses.
+
+Surg Path Non-Chartable Comment
+cassettes in formalin on part A and B; date 10/05/2011; time 1625
+tumor QC block on part B; date 10/05/2011; time 1625

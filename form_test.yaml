@@ -1,0 +1,117 @@
+---
+form:
+
+- Specimen 
+-
+ - "Specimen type:  [Excision without wire-guided localization| Excision with wire-guided localization | Simple mastectomy (including nipple and skin) | Simple mastectomy (including nipple and skin) and axillary dissection|Modified radical mastectomy| Nipple sparing mastectomy] $"
+ - "Specimen size (for specimens less than total mastectomy):  $ x $ x $ [cm|mm] [,see comment]"
+ - "Laterality: [right|left]"
+
+- Tumor types and localization
+-
+ - "Tumor type(s) present:  [Invasive and in situ carcinoma | Invasive carcinoma | In situ carcinoma| In situ carcinoma with microinvasion] $"
+ - "Tumor Site: [Upper Outer Quandrant|Upper Inner Quadrant|Lower Outer Quadrant|Lower Inner Quadrant|Central|Not Specified ] $"
+
+-   Invasive Carcinoma  
+-
+ - "Invasive Carcinoma Histologic Type: [Invasive ductal| Invasive lobular] $"   
+ - "Size of Invasive Component:  $ [cm|Microinvasion only (less or = 0.1 cm| Residual Invasive Carcinoma after presurgical (neoadjuvant) therapy|Cannot Be Determined]"
+ - "Histologic Grade (Nottingham Combined Histologic Score): [GX|G1|G2|G3] (Tubular differentiation: $/3, Nuclear grade: $/3; Mitotic count: $/3 ; Total score: $/9)"
+ - "Histologic Grade: [Only microinvasion present (not graded)|No residual invasive carcinoma after presurgical (neoadjuvant) therapy, score cannot be determined]"
+ - "Tumor Focality: [Single focus of invasive carcinoma|Additional foci of invasive carcinoma (Tumor multifocality) present] [; Number of foci:] $ [; Sizes of additional foci:] $"
+
+- In situ/DCIS (complete for cases of invasive and in situ carcinoma or only DCIS) 
+-
+ - "In-situ Carcinoma Histologic Type: Lobular carcinoma in-situ"  
+ - "Histologic Type of DCIS: [solid|cribriform|micropapillary|papillary] [ and|, ][solid|cribriform|micropapillary|papillary] [ and|, ] [solid|cribriform|micropapillary|papillary] [, with necrosis|, withouth necrosis]"
+ - "Grade of DCIS: [low grade| intermediate grade|high grade]"
+ - "Estimated Size (extent) of DCIS:  [At least|Approximately] $ cm, [macroscopic assesment|microcopic assessment, see comment|microscopic assesment] [slide] $" 
+ - "Necrosis in DCIS: [Not identified|Present, focal (small foci or single cell necrosis)|Present, central (expansive 'comedo' necrosis)]"
+ - "DCIS Component of Invasive Carcinoma: [extensive|not extensive]"
+ - "No Definitive In-situ Carcinoma component is identified"
+
+- Calcs, lymphovascular and perineural invasion
+-
+ - "Calcification: [Microcalcifications are identified within the benign component|Microcalcifications are identified within the in-situ component|Microcalcifications are identified within the invasive component|Microcalcifications are identified within] $"
+ - "Lymphovascular Invasion: [Positive|Negative]" 
+ - "Perineural Invasion: [Positive|Negative]"
+
+
+- Nipple, skin and skeletal muscle
+-
+ - "Nipple:  [The nipple is not present|DCIS does not involve the nipple epidermis|DCIS involves nipple epidermis (Paget disease of the nipple)|In situ carcinoma does not involve the nipple epidermis|LCIS involves the nipple epidermis]"
+ - "Skin: [Skin is not present|Invasive carcinoma does not invade into the dermis or epidermis|Invasive carcinoma directly invades into the dermis or epidermis with skin ulceration, (classified as T4b)|Invasive carcinoma directly invades into the dermis or epidermis without skin ulceration|Satellite skin foci of invasive carcinoma are present (ie, not contiguous with the invasive carcinoma in the breast, classified as T4b)]"
+ - "Skeletal Muscle: [Muscle present|No skeletal muscle present|Skeletal muscle is present and is free of carcinoma|Carcinoma invades skeletal muscle|Carcinoma invades into skeletal muscle and into the chest wall (classified as T4a)]"
+
+- Surgical margins
+-
+ - "Surgical Margins for the Invasive Carcinoma: [positive|negative|indeterminate] $ [,see comment]"
+ - "Distance from the closest margin for the Invasive Carcinoma: [anterior|posterior|superior|inferior|medial|lateral] $, [slide|macroscopic assessment, see gross description] $ [,see comment]"
+ - "Surgical Margins for the Ductal Carcinoma in Situ: [positive|negative|indeterminate] $ [,see comment]"
+ - "Distance from the closest margin for the Ductal Carcinoma in Situ: [anterior|posterior|superior|inferior|medial|lateral] $, [slide|macroscopic assessment, see gross description] $ [,see comment]"
+
+- Lymphnodes
+-
+ - "Lymph node sampling: [No lymph node sampling|Sentinel lymph node(s) only|Sentinel lymph node with axillary dissection|Axillary dissection]"
+ - "Number of sentinel lymph nodes examined: $"
+ - "Total number of lymph nodes examined (sentinel and nonsentinel): $"
+ - "Number of lymph nodes with isolated tumor cells (not greater then 0.2 mm and not greater then 200 cells): $"
+ - "Number of lymph nodes with micrometastases (more then 0.2 mm to 0.2 cm and/or more then 200 cells): $"
+ - "Number of lymph nodes with macrometastases (more then 0.2 cm): $"
+ - "Size of largest nodal metastatic deposit: $"
+ - "Extranodal extension: [present|not identified]"
+ - "Number of metastatic nodes/total number of nodes examined:  $/$; [isolated tumor cells are identified in the performed immunohistochemical stains, but not in the H&E sections|isolated tumor cells are identified in the performed immunohistochemical stains, and in the H&E sections| clusters of tumor cells are identified in the performed immunohistochemical stains, but not in the H&E sections, and measure less the 0.2 mm in greatest dimension| clusters of tumor cells are identified in the performed immunohistochemical stains and in the H&E sections, and measure less the 0.2 mm in greatest dimension|clusters of tumor cells are identified in the performed immunohistochemical stains and in the H&E sections, and measure more then 0.2 mm but less then 2mm in greatest dimension]$ [,see comment]."
+
+- Additional findings
+-
+ - "The remaining breast shows: [changes consistent with a previous biopsy site|benign breast tissue|atypical ductal hyperplasia|flat epithelial atypia|columnar cell change|columnar cell hyperplasia|ductal hyperplasia usual type| fibroadenoma|fibroadenomatoid changes|sclerosing adenosis|fibrocystic changes|radial scar] [,atypical ductal hyperplasia|,flat epithelial atypia|,columnar cell change|,columnar cell hyperplasia|,ductal hyperplasia usual type| ,fibroadenoma|, fibroadenomatoid changes|,sclerosing adenosis|, fibrocystic changes|, radial scar] [,atypical ductal hyperplasia|,flat epithelial atypia|,columnar cell change|,columnar cell hyperplasia|,ductal hyperplasia usual type| ,fibroadenoma|, fibroadenomatoid changes|,sclerosing adenosis|, fibrocystic changes|, radial scar] [,atypical ductal hyperplasia|,flat epithelial atypia|,columnar cell change|,columnar cell hyperplasia|,ductal hyperplasia usual type| ,fibroadenoma|, fibroadenomatoid changes|,sclerosing adenosis|, fibrocystic changes|, radial scar] [,atypical ductal hyperplasia|,flat epithelial atypia|,columnar cell change|,columnar cell hyperplasia|,ductal hyperplasia usual type| ,fibroadenoma|, fibroadenomatoid changes|,sclerosing adenosis|, fibrocystic changes|, radial scar] $. "
+
+- TNM
+-
+ - "Pathologic Stage (AJCC 7th Edition):  [y|r|m] [pTX: Primary tumor cannot be assessed|pT0: No evidence of primary tumor|pTis (DCIS): Ductal carcinoma in situ|pTis (LCIS): Lobular carcinoma in situ|pTis (Paget): Paget disease of the nipple not associated with invasive carcinoma and/or carcinoma in situ (DCIS and/or LCIS) in the underlying breast parenchyma|pT1: Tumor < 20 mm in greatest dimension|pT1mi: Tumor < or = 1 mm in greatest dimension (microinvasion)|pT1a: Tumor >1 mm but < or = 5 mm in greatest dimension|pT1b: Tumor >5 mm but < or =10 mm in greatest dimension|pT1c: Tumor >10 mm but < or = to 20 mm in greatest dimension|pT2: Tumor >20 mm but < or equal to 50 mm in greatest dimension|pT3: Tumor >50 mm in greatest dimension|pT4:Tumor of any size with direct extension to the chest wall and/or to the skin (ulceration or skin nodules). Note: Invasion of the dermis alone does not qualify as pT4.|pT4a: Extension to chest wall, not including only pectoralis muscle adherence invasion| pT4b: Ulceration and or ipsilateral satellite nodules and or edema|pT4c: Both T4a and T4b |pT4d: Inflammatory carcinoma] 
+[(sn): Only sentinel node(s) evaluated. If 6 or more sentinel nodes and/or
+nonsentinel nodes are removed, this modifier should not be used.] [pNX: Regional lymph nodes cannot be assessed (eg, previously removed, or not removed for pathologic study)|pN0: No regional lymph node metastasis identified histologically Note: Isolated tumor cell (ITC) clusters are defined as small clusters of cells not greater than 0.2 mm or single tumor cells, or a cluster of fewer
+than 200 cells in a single histologic cross-section.# ITCs may be detected by routine histology or by immunohistochemical (IHC) methods. Nodes containing only ITCs are excluded from the total positive node count for purposes of N classification but should be included in the total number of nodes evaluated|pN0 (i-): No regional lymph node metastases histologically, negative IHC|pN0 (i+): Malignant cells in regional lymph node(s) no greater than 0.2 mm and no more than 200 cells (detected by H&E or IHC including ITC)| pN0 (mol-): No regional lymph node metastases histologically, negative molecular
+findings (reverse transcriptase polymerase chain reaction RT-PCR)|pN0 (mol+): Positive molecular findings (RT-PCR), but no regional lymph node metastases detected by histology or IHC|pN1mi: Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none greater than 2.0 mm.|pN1mi: Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none greater than 2.0 mm).|pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm|pN2a: Metastases in 4 to 9 axillary lymph nodes (at least 1 tumor deposit greater than 2.0 mm)| pN3a: Metastases in 10 or more axillary lymph nodes (at least 1 tumor deposit greater than 2.0mm)] [pMX|pM1] $ [,see comment]"
+
+
+- "Special studies:"
+-
+ - "Special studies (estrogen and progesterone receptors, mib-1 and HER-2/neu by FISH) have not been ordered on this specimen, as they may already have been performed on the previous [excisioal biopsy|biopsy|lumpectomy].  If needed, these tests can be ordered on the current case (block $) upon request."
+ - "Special studies (estrogen and progesterone receptors, mib-1 and HER-2/neu by FISH) have not been ordered on this specimen, as they had already been performed on the previous [excisional biopsy|biopsy|lumpectomy] ($) and were reported as follows:"
+ - "Special studies (estrogen and progesterone receptors) have not been performed on this specimen, as they may already have been obtained on the previous biopsy.  If needed, these tests can be ordered on the current case (block $) upon request. "
+ - "Special studies performed on this specimen:"
+ - "*ER/PR hormone receptors: ER [positive|negative] $ [|percent of tumor cells positive,] [;strong staining|intermediate staining|weak staining]; PR [positive|negative] $ [|percent of tumor cells positive,] [;strong staining|intermediate staining|weak staining] "
+ - "*Nuclear proliferation index (mib-1): [low|intermediate|high]"
+ - "*HER-2/neu by FISH:  [Pending|Positive|negative]"
+ - "*Block:  $"
+
+
+
+
+
+- "CANNED COMMENTS"
+-
+ - "The number of blocks involved by DCIS is correlated with the extent of DCIS up to 4 cm.8 Multiplying the number of blocks involved by DCIS by the approximate width of a tissue section gives an estimate of the
+extent. In 2 studies, multiplying by 0.3 cm underestimated the extent of DCIS, and multiplying by 0.5 cm may overestimate the extent.8,9 Therefore, multiplying by 0.4 cm is recommended unless there is additional information that a different number would yield a more accurate result."
+ - "COMMENT:  The size (extent) of DCIS is an estimation of the volume of breast tissue occupied by DCIS, and  the number of blocks ($)  involved by DCIS is correlated with the extent of DCIS. Multiplying the number of blocks involved by DCIS by an approximate width of tissue block of 0.4 cm is currently recommended by the 2010 CAP guidelines to estimate the size of the DCIS."
+ - "COMMENT: The size (extent) of DCIS is an estimation of the volume of breast tissue occupied by DCIS, based on the number of blocks ($) involved by DCIS and on an approximate width of tissue block of 0.4 cm." 
+ - "Note:  If there are multiple invasive carcinomas, size, grade, histologic type, and the results of studies for estrogen receptor (ER), progesterone receptor (PR), and HER2/neu should pertain to the largest invasive carcinoma.  If smaller invasive carcinomas differ in any of these features, this information may be included in the 'Comments' section."
+
+links:
+- nottingam grading: http://ccm.ucdavis.edu/bcancercd/311/grading_diagram.html
+- ajcc breast: /ajcc/breast.pdf
+- adasp breast: /adasp/breast.pdf
+- external: http://www.breastcancer.org/symptoms/diagnosis/staging.jsp
+- BreastDCIS_09protocol: /csp/BreastDCIS_09protocol.pdf
+- InvasiveBreast_09protocol: /csp/InvasiveBreast_09protocol.pdf
+- extensive DCIS: eic_dcis.png
+- er and pr reporting dcis: er_pr_reporting_dcis.png
+- er and pr reporting idc: ER_PR_reporting.png
+- lymphovascular invasion: lvi_criteria.png
+- multiple tumors t assessment: multiple_tumors_t.png
+- nuclear grade DCIS: nuclear_grade_dcis.png
+- skin involvement: skin_involvement_breast.png
+- sln met measurement: sln_breast_mets_measurment.png
+- sln met types: sln_breast_mets_types.png 
+
